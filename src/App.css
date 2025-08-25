@@ -1,0 +1,37 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color: blue;
+    height: 50px;
+
+
+}
+.nav-items{
+     width: 600px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    color: white;
+    font-weight: 600;
+
+}
+.nav-items li{
+    text-decoration: none;
+    color: white;
+    font-weight: 800;
+    list-style: none;
+
+}
+.btn button{
+    height: 35px;
+    width: 90px ;
+    background-color: greenyellow;
+    color: white;
+
+}
+.other{
+    background-color: gray;
+    height: 300px;
+
+}
